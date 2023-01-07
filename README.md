@@ -1,7 +1,6 @@
 # Conditions
 
 **Condition:**
-
 ```
 let firstNumber = 20
 let secondNumber = 15
@@ -11,7 +10,6 @@ if firstNumber + secondNumber == 35 {
 ```
 
 **Multiple Conditions:**
-
 ```
 let constant1 = 14
 let constant2 = 27
@@ -20,7 +18,7 @@ if constant1 > 10,  constant2 > 18 {
 }
 ```
 
-** Ternary operator:**
+**Ternary operator:**
 ```
 let ternary1 = 15
 let ternary2 = 18
