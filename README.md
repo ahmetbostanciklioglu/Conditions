@@ -27,14 +27,14 @@ print(ternary1 == ternary2 ? "Ternary result is true" : "Ternary result is false
 
 **Switch:**
 ```
-let conditionCheck = 100
+let conditionCheck = 41
 switch conditionCheck {
 case -1..<1:
-    print("1")
+    print("0")
 case 1..<3:
     print("2")
 case 3..<5:
-    print("3")
+    print("4")
 default:
     print("default")
 }
