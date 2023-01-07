@@ -26,3 +26,18 @@ let ternary1 = 15
 let ternary2 = 18
 print(ternary1 == ternary2 ? "Ternary result is true" : "Ternary result is false")
 ```
+
+**Switch:**
+```
+let conditionCheck = 100
+switch conditionCheck {
+case -1..<1:
+    print("1")
+case 1..<3:
+    print("2")
+case 3..<5:
+    print("3")
+default:
+    print("default")
+}
+```
