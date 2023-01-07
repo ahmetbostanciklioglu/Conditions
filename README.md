@@ -20,4 +20,9 @@ if constant1 > 10,  constant2 > 18 {
 }
 ```
 
-#test
+** Ternary operator:**
+```
+let ternary1 = 15
+let ternary2 = 18
+print(ternary1 == ternary2 ? "Ternary result is true" : "Ternary result is false")
+```
